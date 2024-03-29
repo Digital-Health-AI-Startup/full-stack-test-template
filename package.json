@@ -1,0 +1,17 @@
+{
+  "name": "full-stack-test-template",
+  "version": "1.0.0",
+  "description": "A template for our full stack test",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "start:dev": "nx run-many --output-style stream -t start:dev -p api web"
+  },
+  "author": "Percipio Health, Inc.",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "nx": "^18.2.1"
+  }
+}
