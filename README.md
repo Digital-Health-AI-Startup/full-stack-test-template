@@ -22,6 +22,12 @@ nvm install
 nvm use
 ```
 
+Then, install packages from the monorepo root
+
+```bash
+pnpm i
+```
+
 You can use `nx`, either from a global install or with `pnpx`, to run workspace scripts from each workspace. There are more details on [their website](https://nx.dev/nx-api/nx) but for some quick examples:
 
 - `pnpx nx run api:start:dev` is going to `run` a package.json script in the `api` workspace, and the script is `start:dev`
