@@ -7,12 +7,10 @@ A monorepo template to use for our full-stack test.
 As the name implies this is meant to be a full-stack test, but no full-stack engineer
 focuses equally on frontend and backend. Please complete both ends of the test, but
 feel free to lean more into the area you are most passionate about, and let us know 
-in this README which side you're leaning into.
+in this README which side you're leaning.
 
-There is no time limit imposed by us or required response time. You can do a little each
-day over a weeks time or get it all done at once. 
-
-This is your time to stand out and show off!
+There is no time limit imposed by us or required response time.
+This is your time to stand out and show off. We're excited to see what you come up with!
 
 ## Process
 
