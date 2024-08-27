@@ -10,7 +10,7 @@ feel free to lean more into the area you are most passionate about, and let us k
 in this README which side you're leaning.
 
 There is no time limit imposed by us or required response time.
-This is your opportunity to stand out and show us your skillz. 
+This is your opportunity to stand out and show us your skills.
 We're excited to see what you come up with!
 
 ## Process
